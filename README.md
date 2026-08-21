@@ -1,6 +1,6 @@
 # GigLink 
 
-> A web platform connecting young people (ages 14–30) with short-term, flexible gig work opportunities in their community.
+> A web platform connecting young people (ages 14–25) with short-term, flexible gig work opportunities, where we help businesses get small tasks done.
 
 *(Rename this to whatever you're calling your project — this is just a starting template.)*
 
