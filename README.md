@@ -8,7 +8,7 @@
 
 ##  Overview
 
-GigLink is a web application built for our **Web Programming** course. It aims to bridge the gap between young people looking for flexible, short-term work (tutoring, event help, pet-sitting, freelance design, errands, digital gigs, etc.) and individuals or small businesses who need quick, reliable help.
+GiGWork is a web application built for our **Web Programming** course. It aims to bridge the gap between young people looking for flexible, short-term work (tutoring, event help, pet-sitting, freelance design, errands, digital gigs, etc.) and individuals or small businesses who need quick, reliable help.
 
 Unlike traditional gig platforms aimed at adults, GigLink is designed with **age-appropriate safety, mentorship, and skill-building** in mind — recognizing that our users range from teenagers just starting to earn, to young adults building a freelance career.
 
